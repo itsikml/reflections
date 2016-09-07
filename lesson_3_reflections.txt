@@ -13,3 +13,7 @@ I would use forks to make changes to somebody else's repository without changing
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can access it offline and get in-sync.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Probably using emails and sending the new files each time. Git and github are easier.
