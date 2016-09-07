@@ -17,3 +17,8 @@ You can access it offline and get in-sync.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Probably using emails and sending the new files each time. Git and github are easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when working with other people, you might prefer to work on a seperate branch and later merge into master when you have everybody's changes.
+Working like this makes it more organized as a team effort, while working on the master branch is more convenient for the individual.
