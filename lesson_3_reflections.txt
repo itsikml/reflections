@@ -9,3 +9,7 @@ Because you might not have a fully operational file there and you don't want it 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 I would use forks to make changes to somebody else's repository without changing his version. Clones are good for getting a copy of a repository and branches when i need to split my work or try an angle i am not ceratin about.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can access it offline and get in-sync.
